@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: #f7f6b7;
+}
+.header {
+    background: #000000;
+    padding-left: 16px; 
+    color: #FFBCFD;
+    text-align: center;
+}
+
+img {
+  width:650px;
+  height:500px;
+}
+
+button {
+   text-align: center; 
+}
+.choose {
+    background-color: #ffcfa0;
+    color: #def7b9;
+    text-align: center; 
+}
+
